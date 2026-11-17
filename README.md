@@ -1,18 +1,37 @@
-Hi there 👋, I'm [Your Name]🚀 Cloud & DevOps Enthusiast | Linux | AWS | Docker | CI/CD Automation👨‍💻 About Me🎓 MCA Graduate (Master of Computer Applications)🐧 Strong foundation in Linux administration & shell scripting⚙️ Building & automating CI/CD pipelines and containerized workflows☁️ Exploring Cloud Infrastructure (AWS & Azure) and Infrastructure as Code (IaC)🌱 Currently learning: Kubernetes orchestration, Terraform, and cloud security best practices💬 Ask me about: Linux, Docker, Git, Shell Scripting, or Backend/Cloud deployments🚀 Tech Stack🔄 DevOps & Cloud Workflow Architectureflowchart LR
-    subgraph Code ["💻 Development"]
-        A[Git & GitHub] --> B[Bash / Python Scripts]
-    end
+# Hi there 👋, I'm Shivprasad Suryakar
 
-    subgraph CICD ["⚙️ CI/CD & Containers"]
-        C[Jenkins / GitHub Actions] --> D[Docker Build]
-    end
+`Junior DevOps Engineer` · `MCA` · `Linux` · `AWS` · `Docker` · `Kubernetes` · `OpenShift` · `Terraform`
 
-    subgraph Infra ["☁️ Cloud & Orchestration"]
-        E[Terraform IaC] --> F[AWS / Azure]
-        D --> G[Kubernetes Cluster]
-        F --- G
-    end
+---
 
-    Code --> CICD
-    CICD --> Infra
-📌 Featured ProjectsProjectDescriptionTools UsedRepositoryAutomated CI/CD PipelineEnd-to-end containerized web app deployment using automated build and test stages.Docker, Jenkins, GitHubView RepoAWS Infrastructure SetupProvisioned scalable VPC, EC2, and S3 resources using Infrastructure as Code.Terraform, AWS, LinuxView RepoLinux Server MonitorAutomated bash utility to monitor CPU, memory, disk usage, and send alerts.Linux, Bash, CronView Repo📫 Connect With Me📊 GitHub Stats
+## 👨‍💻 About Me
+
+- 🎓 **MCA** & Computer Science background with hands-on focus on Cloud & DevOps engineering
+- 🐧 Strong daily workflow across **Linux** (Ubuntu/WSL2, RHEL, openSUSE, Kali), Bash & Python automation
+- 🐳 Building & deploying containerized workloads using **Docker**, **Podman**, **Kubernetes**, and **Red Hat OpenShift**
+- ☁️ Provisioning cloud infrastructure with **Terraform** on **AWS** (EC2, ECS, ECR, S3, CloudFront) and **GCP**
+- 🔁 Automating build, test, and deployment pipelines via **GitHub Actions** and **Jenkins**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,gcp,jenkins,githubactions,ansible,bash,python,git" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+> Also working with **Podman** and **Red Hat OpenShift** for container runtimes and enterprise cluster workflows.
+
+---
+
+## 🔄 DevOps & Cloud Tools Architecture
+
+```mermaid
+flowchart LR
+    DEV["💻 Code & Git<br/>Linux · Bash · Python"] --> CI["⚙️ CI/CD Pipeline<br/>GitHub Actions · Jenkins"]
+    CI --> CNT["🐳 Containers<br/>Docker · Podman"]
+    CNT --> K8S["☸️ Orchestration<br/>Kubernetes · OpenShift"]
+    IAC["🧱 Terraform IaC<br/>Automated Provisioning"] --> AWS["☁️ Cloud Infrastructure<br/>AWS · GCP"]
+    K8S <--> AWS
