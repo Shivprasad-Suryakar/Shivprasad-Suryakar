@@ -7,8 +7,19 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shivprasad-Suryakar&color=blue&style=flat)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Shivprasad-Suryakar)
-[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker)](https://hub.docker.com/u/prasad1212)
+<br/>
+
+<a href="https://github.com/Shivprasad-Suryakar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://hub.docker.com/u/prasad1212">
+<img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/posts/shivprasad-suryakar-a90695292">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -52,8 +63,6 @@ I am an MCA student passionate about **DevOps, Cloud Computing, Automation, and 
 <img src="https://skillicons.dev/icons?i=jenkins,github,git" height="50"/>
 </p>
 
-
-
 ### 📊 Monitoring & Observability
 
 <p>
@@ -72,7 +81,6 @@ I am an MCA student passionate about **DevOps, Cloud Computing, Automation, and 
 <img src="https://skillicons.dev/icons?i=mysql,html,css" height="50"/>
 </p>
 
-
 ## 🔁 DevOps Lifecycle
 
 ```mermaid
@@ -88,7 +96,6 @@ flowchart LR
 ```
 
 ---
-
 
 ## 🎯 Career Interests
 
@@ -107,11 +114,15 @@ flowchart LR
 <a href="https://github.com/Shivprasad-Suryakar">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://hub.docker.com/u/prasad1212">
 <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/posts/shivprasad-suryakar-a90695292">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
 <a href="mailto:ShivprasadSuryakar@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
