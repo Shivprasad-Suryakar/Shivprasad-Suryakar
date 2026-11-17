@@ -25,9 +25,6 @@ I am an MCA student passionate about **DevOps, Cloud Computing, Automation, and 
 - ☸️ Learning Kubernetes and container orchestration.
 - 🔄 Interested in CI/CD and GitOps workflows.
 - ☁️ Exploring AWS Cloud Infrastructure.
-- 📍 Chhatrapati Sambhajinagar, Maharashtra, India.
-
----
 
 ## 🛠️ DevOps Tools & Technologies
 
