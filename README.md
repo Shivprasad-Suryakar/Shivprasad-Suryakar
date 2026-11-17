@@ -3,140 +3,160 @@
 
 # 👋 Hi, I'm Shivprasad Vishwanath Suryakar
 
-### 🚀 Aspiring DevOps & Cloud Engineer | MCA Student
+### 🚀 Aspiring DevOps Engineer | Cloud Enthusiast | MCA Student
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Shivprasad-Suryakar)
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Profile-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/u/prasad1212)
+![Profile Views](https://komarev.com/ghpvc/?username=Shivprasad-Suryakar&color=blue&style=flat)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Shivprasad-Suryakar)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker)](https://hub.docker.com/u/prasad1212)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Overview
 
-- 🎓 MCA Student (2025–2027)
-- 🎓 Bachelor of Computer Science (2022–2025)
-- 💻 Interested in DevOps, Cloud Computing & Automation.
-- 🐳 Hands-on experience with Docker and containerization.
-- ☸️ Exploring Kubernetes, Jenkins and GitOps.
-- ☁️ Working with AWS cloud services.
+I am an MCA student passionate about **DevOps, Cloud Computing, Automation, and Infrastructure Management**. I enjoy learning modern technologies and understanding how applications are developed, deployed, monitored, and maintained.
+
+- 🎓 MCA (2025–2027)
+- 🎓 BCS (2022–2025)
+- 🐧 Interested in Linux System Administration.
+- 🐳 Exploring containerization with Docker.
+- ☸️ Learning Kubernetes and container orchestration.
+- 🔄 Interested in CI/CD and GitOps workflows.
+- ☁️ Exploring AWS Cloud Infrastructure.
 - 📍 Chhatrapati Sambhajinagar, Maharashtra, India.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ DevOps Tools & Technologies
 
-### DevOps & Cloud
+### ☁️ Cloud Platforms
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=aws" height="50"/>
+</p>
 
-### Programming & Tools
+### 🐧 Operating Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" height="50"/>
+</p>
 
----
+### 🐳 Containerization & Orchestration
 
-## 🚀 Projects
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="50"/>
+</p>
 
-### 1. Kubernetes-Based DevOps Monitoring Stack
+### 🔄 CI/CD & GitOps
 
-- Building a local Kubernetes environment using K3s.
-- Jenkins for CI/CD automation.
-- Argo CD for GitOps-based deployments.
-- Prometheus for monitoring.
-- Grafana for metrics visualization.
-- GitHub for source code management.
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,github,git" height="50"/>
+</p>
 
-### 2. Cryptography with Python
+**Additional Tools:**
 
-- Developed a Python-based cryptography application.
-- Flask-based application.
-- Containerized using Docker.
-- Docker Hub: `prasad1212/cryptographywithpython`
+- Argo CD
+- GitHub Actions
+- Docker Compose
 
-🔗 [View Project](https://github.com/Shivprasad-Suryakar/Cryptography-with-python)
+### 📊 Monitoring & Observability
 
-### 3. PHP & MySQL E-commerce Application
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="50"/>
+</p>
 
-- Developed using PHP and MySQL.
-- MySQL 8 database integration.
-- Docker containerization.
-- Docker Compose for multi-container deployment.
+### 💻 Programming & Scripting
 
-### 4. AWS Cloud Projects
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,php" height="50"/>
+</p>
 
-- Static website hosting using Amazon S3.
-- Content delivery using Amazon CloudFront.
-- Container image management using Amazon ECR.
-- Application deployment exploration using Amazon ECS.
+### 🗄️ Database & Web Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,html,css" height="50"/>
+</p>
 
 ---
 
-## 🔬 MCA Research Project
+## ⚙️ DevOps Workflow
 
-### AI-Based Intrusion Detection for IoT Networks Using Machine Learning
+My understanding of a modern DevOps workflow:
 
-Research focus:
+```mermaid
+flowchart TD
+    A["👨‍💻 Developer"] --> B["Git & GitHub"]
+    B --> C["Jenkins CI/CD"]
+    C --> D["Build & Test"]
+    D --> E["Docker Image"]
+    E --> F["Container Registry"]
+    F --> G["Kubernetes Deployment"]
+    G --> H["Argo CD - GitOps"]
+    H --> I["Application Running"]
+    I --> J["Prometheus Monitoring"]
+    J --> K["Grafana Dashboard"]
+```
 
-- IoT Network Security.
-- AI and Machine Learning.
-- DoS/DDoS Attack Detection.
-- Botnet and Unauthorized Access Detection.
-- IoT Security Datasets.
-- Machine Learning Detection Techniques.
+---
+
+## 🔁 DevOps Lifecycle
+
+```mermaid
+flowchart LR
+    A["Plan"] --> B["Code"]
+    B --> C["Build"]
+    C --> D["Test"]
+    D --> E["Release"]
+    E --> F["Deploy"]
+    F --> G["Operate"]
+    G --> H["Monitor"]
+    H --> A
+```
 
 ---
 
 ## 📚 Currently Learning
 
-- Kubernetes Administration
+- Advanced Linux Administration
+- Docker & Docker Compose
+- Kubernetes Architecture and Deployments
 - Jenkins CI/CD Pipelines
 - GitOps with Argo CD
 - AWS Cloud Services
-- Prometheus & Grafana Monitoring
-- Linux System Administration
-- DevOps Automation
+- Prometheus & Grafana
+- Infrastructure Automation
+- DevSecOps Fundamentals
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Career Interests
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivprasad-Suryakar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivprasad-Suryakar&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shivprasad-Suryakar&theme=tokyonight)
-
-</div>
+- DevOps Engineering
+- Cloud Engineering
+- Site Reliability Engineering (SRE)
+- Kubernetes Administration
+- Cloud Infrastructure Automation
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/Shivprasad-Suryakar">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://hub.docker.com/u/prasad1212">
 <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
+
 <a href="mailto:ShivprasadSuryakar@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -145,8 +165,6 @@ Research focus:
 
 ### 💡 Learn | Build | Automate | Deploy
 
-**"Turning ideas into solutions through DevOps and Cloud Technology."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shivprasad-Suryakar&color=blue&style=flat)
+**"Automating today, innovating tomorrow."**
 
 </div>
