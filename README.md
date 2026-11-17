@@ -55,11 +55,7 @@ I am an MCA student passionate about **DevOps, Cloud Computing, Automation, and 
 <img src="https://skillicons.dev/icons?i=jenkins,github,git" height="50"/>
 </p>
 
-**Additional Tools:**
 
-- Argo CD
-- GitHub Actions
-- Docker Compose
 
 ### 📊 Monitoring & Observability
 
@@ -79,27 +75,6 @@ I am an MCA student passionate about **DevOps, Cloud Computing, Automation, and 
 <img src="https://skillicons.dev/icons?i=mysql,html,css" height="50"/>
 </p>
 
----
-
-## ⚙️ DevOps Workflow
-
-My understanding of a modern DevOps workflow:
-
-```mermaid
-flowchart TD
-    A["👨‍💻 Developer"] --> B["Git & GitHub"]
-    B --> C["Jenkins CI/CD"]
-    C --> D["Build & Test"]
-    D --> E["Docker Image"]
-    E --> F["Container Registry"]
-    F --> G["Kubernetes Deployment"]
-    G --> H["Argo CD - GitOps"]
-    H --> I["Application Running"]
-    I --> J["Prometheus Monitoring"]
-    J --> K["Grafana Dashboard"]
-```
-
----
 
 ## 🔁 DevOps Lifecycle
 
