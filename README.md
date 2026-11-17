@@ -117,19 +117,6 @@ flowchart LR
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Linux Administration
-- Docker & Docker Compose
-- Kubernetes Architecture and Deployments
-- Jenkins CI/CD Pipelines
-- GitOps with Argo CD
-- AWS Cloud Services
-- Prometheus & Grafana
-- Infrastructure Automation
-- DevSecOps Fundamentals
-
----
 
 ## 🎯 Career Interests
 
