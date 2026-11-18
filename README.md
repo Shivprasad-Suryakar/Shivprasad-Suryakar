@@ -31,17 +31,17 @@ I am an MCA student passionate about **DevOps, Cloud Computing, Automation, and 
 
 - 🎓 MCA (2025–2027)
 - 🎓 BCS (2022–2025)
-- 🐧 Interested in Linux System Administration.
+- 🐧 Building automation solutions with Bash and PowerShell.
 - 🐳 Exploring containerization with Docker.
-- ☸️ Learning Kubernetes and container orchestration.
+- ☸️ Linux, Docker, Kubernetes & OpenShift Enthusiast
 - 🔄 Interested in CI/CD and GitOps workflows.
-- ☁️ Exploring AWS Cloud Infrastructure.
+- ☁️ Passionate about DevOps and Cloud Native Technologies
 
 ## Certifications
-- RHCSA 
-- CLA
-- CCA
-- Red Hat OpenShift Container
+- RHCSA (Redhat Certified System Administrator)
+- CLA (Certified Linux Administrator)
+- CCA (Certified Container Administrator)
+- Red Hat OpenShift Container (EX188)
 
 ## 🛠️ DevOps Tools & Technologies
 
