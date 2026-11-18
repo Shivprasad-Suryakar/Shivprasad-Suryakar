@@ -40,10 +40,10 @@ I am an MCA student passionate about **DevOps, Cloud Computing, Automation, and 
 ## 🛠️ DevOps Tools & Technologies
 
 ## Certifications
-RHCSA 
-CLA
-CCA
-Red Hat OpenShift Container
+- RHCSA 
+- CLA
+- CCA
+- Red Hat OpenShift Container
 
 ### ☁️ Cloud Platforms
 
