@@ -37,13 +37,13 @@ I am an MCA student passionate about **DevOps, Cloud Computing, Automation, and 
 - 🔄 Interested in CI/CD and GitOps workflows.
 - ☁️ Exploring AWS Cloud Infrastructure.
 
-## 🛠️ DevOps Tools & Technologies
-
 ## Certifications
 - RHCSA 
 - CLA
 - CCA
 - Red Hat OpenShift Container
+
+## 🛠️ DevOps Tools & Technologies
 
 ### ☁️ Cloud Platforms
 
