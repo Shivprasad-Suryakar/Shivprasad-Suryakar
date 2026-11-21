@@ -94,7 +94,6 @@ flowchart LR
     Operate --> Monitor["📊 Monitor"]
     Monitor --> Plan
 ```
-
 ## 🎯 Career Interests
 
 - DevOps Engineering
