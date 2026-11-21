@@ -85,17 +85,15 @@ I am an MCA student passionate about **DevOps, Cloud Computing, Automation, and 
 
 ```mermaid
 flowchart LR
-    A["Plan"] --> B["Code"]
-    B --> C["Build"]
-    C --> D["Test"]
-    D --> E["Release"]
-    E --> F["Deploy"]
-    F --> G["Operate"]
-    G --> H["Monitor"]
-    H --> A
+    Plan["📋 Plan"] --> Code["💻 Code"]
+    Code --> Build["🔨 Build"]
+    Build --> Test["🧪 Test"]
+    Test --> Release["🚀 Release"]
+    Release --> Deploy["📦 Deploy"]
+    Deploy --> Operate["⚙️ Operate"]
+    Operate --> Monitor["📊 Monitor"]
+    Monitor --> Plan
 ```
-
----
 
 ## 🎯 Career Interests
 
