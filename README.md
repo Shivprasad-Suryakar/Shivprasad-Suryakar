@@ -37,12 +37,6 @@ I am an MCA student passionate about **DevOps, Cloud Computing, Automation, and 
 - 🔄 Interested in CI/CD and GitOps workflows.
 - ☁️ Passionate about DevOps and Cloud Native Technologies
 
-## Certifications
-- RHCSA (Redhat Certified System Administrator)
-- CLA (Certified Linux Administrator)
-- CCA (Certified Container Administrator)
-- Red Hat OpenShift Container (EX188)
-
 ## 🛠️ DevOps Tools & Technologies
 
 ### ☁️ Cloud Platforms
